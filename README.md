@@ -7,4 +7,5 @@ This Is A Fully Functional Piano With all Correct Voice Notes Added With Volume 
 4. All Keys Make Proper And Real Piano Sound Can Play Music On It.
 
    # Screenshot
-   
+   ![image alt](https://github.com/Yashkolte1/Playable-Piano-Kyash/blob/main/playable%20piano%201.jpg?raw=true)
+   ![image alt](https://github.com/Yashkolte1/Playable-Piano-Kyash/blob/main/playable%20piano%202.jpg?raw=true)
